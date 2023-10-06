@@ -1,4 +1,4 @@
-<p align="center"><img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"height="350" /></p>
+<p align="center"><img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"height="350" width="500" /></p>
 👋<h1 align="center">Hi 👋, I'm Abhilasha Srivastava</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashasrivastava" /> </p>
