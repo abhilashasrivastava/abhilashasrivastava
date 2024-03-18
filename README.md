@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Machine Learning | Python | MySQL | Data Analysis| MS Power BI | Tableau**
+- 💬 Ask me about **Machine Learning | Deep Learning | NLP | Web Scraping | Python | MySQL | Data Analysis | MS Power BI | Tableau**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhilasha-srivastava-ab3891227/**
 
