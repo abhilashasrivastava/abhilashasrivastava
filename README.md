@@ -1,11 +1,11 @@
 <p align="center"><img src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"height="350" width="500" /></p>
 👋<h1 align="center">Hi 👋, I'm Abhilasha Srivastava</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashasrivastava" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashasrivastava" alt="abhilashasrivastava" /></a> </p>
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning Libraries and Frameworks**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **Machine Learning | Python | MySQL | Data Analysis| MS Power BI | Tableau**
 
